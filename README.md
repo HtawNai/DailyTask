@@ -35,3 +35,6 @@ URL
 
 #### No connectivity – error course (sad path):
 1. System delivers connectivity error.
+
+## Module diagram
+![Arche](https://github.com/HtawNai/DailyTask/assets/91857145/66d7b73d-b91c-4359-90a1-a30748fe4735)
